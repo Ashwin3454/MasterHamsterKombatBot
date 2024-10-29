@@ -1,35 +1,9 @@
-# Master Hamster Kombat Bot!
-
-[![GitHub stars](https://img.shields.io/github/stars/masterking32/MasterHamsterKombatBot.svg)](https://github.com/masterking32/MasterHamsterKombatBot/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/masterking32/MasterHamsterKombatBot.svg)](https://github.com/masterking32/MasterHamsterKombatBot/issues)
-
-<hr>
-
-## ✅🔴 Follow the [MasterCryptoFarmBot](https://github.com/masterking32/MasterCryptoFarmBot) on GitHub and join our [Telegram Channel](https://t.me/MasterCryptoFarmBot) to stay updated on new releases about upcoming bots. The MasterCryptoFarmBot is an all-in-one app with a user-friendly interface, allowing anyone to easily run Telegram farming bots! 🔴✅
-
-<hr>
-
 # 🤖 Hamster Kombat S1 has been finished!
 ## 🥂 Future updates for next seasons and other bots will be available in [MasterCryptoFarmBot](https://github.com/masterking32/MasterCryptoFarmBot), join our [Telegram Channel](https://t.me/MasterCryptoFarmBot) to stay tuned.
 
 ---
 
 ## 📦 Project Archived (as of September 21, 2024)
-
-We have officially archived this project and are excited to announce that we've moved on to a brand-new venture to provide you with an even more incredible experience through **Air-Drop Farming**! 🚀
-
-### 🌟 Join Our New Project!
-We're working hard to create something amazing, and we'd love for you to be part of it. Stay updated and be the first to know about our progress:
-
-- **Join our Telegram Channel**: [MasterCryptoFarmBot Channel](https://t.me/MasterCryptoFarmBot)
-- **Join our Telegram Group**: [MasterCryptoFarmBot Group](https://t.me/MasterCryptoFarmBotGroup)
-- **Check out the new project**: [MasterCryptoFarmBot on GitHub](https://github.com/masterking32/MasterCryptoFarmBot)
-
-Thank you for your continued support, and we look forward to seeing you on this exciting journey! 🎉
-
-<hr>
-
-Developed By [MasterkinG32](https://github.com/masterking32)
 
 🙏 A Heartfelt Thanks to Our Amazing Contributors
 
@@ -55,10 +29,3 @@ We truly appreciate your hard work and commitment! 🎉
 
 For a full list of our amazing contributors, please check out our [Contributors Page](https://github.com/masterking32/MasterHamsterKombatBot/graphs/contributors).
 <hr>
-
-## 📽️ Tutorial and Test
-<a href="https://www.youtube.com/watch?v=cjWE7DmMFgw"  target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/masterking32/MasterHamsterKombatBot/main/thumbnail.png" alt="Youtube Video" />
-</a>
-<hr>
-

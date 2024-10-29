@@ -1,5 +1,4 @@
 # 🤖 Hamster Kombat S1 has been finished!
-## 🥂 Future updates for next seasons and other bots will be available in [MasterCryptoFarmBot](https://github.com/masterking32/MasterCryptoFarmBot), join our [Telegram Channel](https://t.me/MasterCryptoFarmBot) to stay tuned.
 
 ---
 
